@@ -1,0 +1,94 @@
+#  Robot-Manager was used to generate this file.
+#  Copyright (c) 2001-2002 by Sophtware.com, Inc.  All Rights Reserved.
+#  http://www.websitemanagementtools.com/
+
+#  PARTIAL access (Google)
+#  NO access (Google)
+User-agent: Googlebot
+Allow: /
+
+Disallow: /_documents/
+Disallow: /_index-html-backups-2024/
+Disallow: /_index-html-previous/
+Disallow: /_index-html-previous-previous/
+Disallow: /_User-Experiences/
+Disallow: /_american-university/
+Disallow: /_bat/
+
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+
+Disallow: /godaddy-pro/
+
+Disallow: /high-definition-wireframes/
+Disallow: /html-original/
+Disallow: /images/
+Disallow: /images-original/
+Disallow: /js/
+Disallow: /js-original/
+Disallow: /low-definition-wireframes/
+Disallow: /my-interactive-hi-definition-wireframes-in-action/
+Disallow: /psd/
+
+
+#  PARTIAL access (Google Image)
+#  NO access (Google Image)
+User-agent: Googlebot-Image
+Allow: /
+
+Disallow: /_documents/
+Disallow: /_index-html-backups-2024/
+Disallow: /_index-html-previous/
+Disallow: /_index-html-previous-previous/
+Disallow: /_User-Experiences/
+Disallow: /_american-university/
+Disallow: /_bat/
+
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+
+Disallow: /godaddy-pro/
+
+Disallow: /high-definition-wireframes/
+Disallow: /html-original/
+Disallow: /images/
+Disallow: /images-original/
+Disallow: /js/
+Disallow: /js-original/
+Disallow: /low-definition-wireframes/
+Disallow: /my-interactive-hi-definition-wireframes-in-action/
+Disallow: /psd/
+
+
+#  PARTIAL access (All Spiders)
+#  NO access (All Spiders)
+User-agent: *
+Allow: /
+
+Disallow: /_documents/
+Disallow: /_index-html-backups-2024/
+Disallow: /_index-html-previous/
+Disallow: /_index-html-previous-previous/
+Disallow: /_User-Experiences/
+Disallow: /_american-university/
+Disallow: /_bat/
+
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+
+Disallow: /godaddy-pro/
+
+Disallow: /high-definition-wireframes/
+Disallow: /html-original/
+Disallow: /images/
+Disallow: /images-original/
+Disallow: /js/
+Disallow: /js-original/
+Disallow: /low-definition-wireframes/
+Disallow: /my-interactive-hi-definition-wireframes-in-action/
+Disallow: /psd/
+
+
